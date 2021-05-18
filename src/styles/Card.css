@@ -1,3 +1,10 @@
+.lmj-card {
+  padding: 32px;
+  color: white;
+
+  background-color: #31b572;
+}
+
 ul {
   list-style: none;
 }

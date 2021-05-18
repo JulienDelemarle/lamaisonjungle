@@ -6,7 +6,7 @@ function Card() {
   const bouquetDeFleurCost = 15;
 
   return (
-    <div>
+    <div className="lmj-card">
       <h2>Panier</h2>
       <ul>
         <li>monstera: {monsteraCost}€</li>
